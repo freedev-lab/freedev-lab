@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Mounir Ghafir 👋
 
-<!--
-**freedev-lab/freedev-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Morocco who enjoys building useful applications that solve real problems.
 
-Here are some ideas to get you started:
+I care about writing clean, maintainable code, following software development best practices, and using AI tools to work more efficiently and build better solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- TypeScript
+- Python
+
+**Frontend & Mobile**
+- React
+- Next.js
+- React Native
+
+**Backend & APIs**
+- Node.js
+- Express.js
+- REST APIs
+
+**Databases**
+- MongoDB
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+
+## 🚀 What I Do
+
+- Build useful applications with a focus on simplicity and functionality.
+- Write clean, maintainable code and follow best practices.
+- Use AI tools to speed up development and improve my workflow.
+- Keep learning and exploring better ways to build software.
+
+---
+
+Thanks for visiting my profile! 😊
